@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
+
+.section__padding {
+  padding: 3rem 6rem;
+}
+
+.complete {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
